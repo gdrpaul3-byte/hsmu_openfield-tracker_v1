@@ -9,11 +9,10 @@
 ## 프로그램 실행 화면
 
 <p align="center">
-  <img src="docs/screenshots/oft_a_roi_setup.png" width="48%" alt="ROI 설정 화면"/>
-  <img src="docs/screenshots/oft_b_tracking.png" width="48%" alt="트래킹 중 화면"/>
+  <img src="docs/screenshots/oft_b_tracking.png" width="96%" alt="트래킹 중 화면"/>
 </p>
 <p align="center">
-  <em>좌: ROI 설정 중 (다각형 그리기) &nbsp;|&nbsp; 우: 트래킹 중 (Zone Stats 실시간 표시)</em>
+  <em>트래킹 진행 중 — Zone 체류 통계 실시간 표시, 파란 선: 실제 이동 궤적 (마우스 m1, 8개 시점 샘플)</em>
 </p>
 
 ---
